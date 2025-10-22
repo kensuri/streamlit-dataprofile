@@ -7,3 +7,4 @@ ydata-profiling
 streamlit-pandas-profiling
 openpyxl
 xlrd
+setuptools>=65.5.0
